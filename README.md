@@ -1,2 +1,2 @@
 # Opportunity-Hub
-It's a website for students were all information about many opportunities like hackathons , internships , government schemes for students , workshopes and many more opportunities and there eligibility criteria , first date ,last date, apply links , so thise all information are given
+It’s a website for students that shares information about opportunities such as hackathons, internships, government schemes, workshops, and more. It includes details like eligibility criteria, start and end dates, and application links.
